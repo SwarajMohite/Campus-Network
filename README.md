@@ -1,2 +1,5 @@
 # Campus-Network
-here is our ACN MicroProject of Campus Network Design
+- Campus Network
+- Project of Computer Networking Subject
+- Built using Cisco Packet Tracer.
+- You can find it in Repo ( having .pkt extension ).
